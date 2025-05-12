@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I know a little Deutch!.
   
 #### *Profiles:*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arokia_Martin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varadha-rajan-s/)
-[![Codolio](https://img.shields.io/badge/Codolio-Arokia%20MartinN-blueviolet?style=for-the-badge&logo=codersrank)](https://codolio.com/profile/Varadha_Rajan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ArokiaMartin-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Varadha_Rajan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varadha_Rajan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varadha-rajan-s/)
+[![Codolio](https://img.shields.io/badge/Codolio-Varadha%20RajanS-blueviolet?style=for-the-badge&logo=codersrank)](https://codolio.com/profile/Varadha_Rajan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-VaradhaRajan-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Varadha_Rajan/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1411%20(2★)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/varadha_rajan1)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1059%20(Newbie)-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/varadha_rajan1)
 
