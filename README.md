@@ -35,7 +35,7 @@
 #### *Experience Highlights:*
 
 - ***Research Intern – CAIR, CIT** 🔗* – *Published an article on E-Learning Privacy in the Context of Machine Learning.*  
-- *[**Cisco Networking Intern – Cisco Networking Academy (Virtual)** 🔗](https://www.linkedin.com/posts/arokia-martin-n-548692290_cisconetworkingacademy-aicte-networkingessentials-activity-7245797559581990912-TxJx)* – *Created Netpath Illuminator – real-time packet flow visualizer using Python & Matplotlib.*  
+- *[**Cisco Networking Intern – Cisco Networking Academy (Virtual)** 🔗](https://www.linkedin.com/posts/varadha-rajan-s_cisco-networking-virtualinternship-activity-7243637487284199426-ome1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELg36IBlSkBuLzKTLVH0Z-6DVcBWk6MI7s)* – *Created Netpath Illuminator – real-time packet flow visualizer using Python & Matplotlib.*  
 - *[**Networking Intern – Eduskills Foundation (Virtual)** 🔗](https://www.linkedin.com/posts/varadha-rajan-s_aicteinternship-aicteneat-aicte-activity-7238575517996609536-0g0D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELg36IBlSkBuLzKTLVH0Z-6DVcBWk6MI7s)* – *Completed Networking Virtual Internship using networking hand-on models.*  
 - *[**Android Developer Intern – Eduskills Foundation (Virtual)** 🔗](https://www.linkedin.com/posts/varadha-rajan-s_excited-to-share-that-ive-completed-my-activity-7271745704627191809-gU3N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELg36IBlSkBuLzKTLVH0Z-6DVcBWk6MI7s)* – *Built Kotlin-based Android apps focusing on UI/UX and modern development practices.*
 
