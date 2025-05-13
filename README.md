@@ -1,8 +1,7 @@
 ## Hi I'm Varadha Rajan S👋
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 -*🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology* <br>
 *[CGPA: 8.51]*
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 📄 Here's Link to My [resume](https://drive.google.com/file/d/1EYoimWpVE74pbrm-2JaLzbde1rkGDC-B/view?usp=sharing)                                                
 - Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR).
 - ☁️ NPTEL: Cloud Computing Certified! , CISCO : Introduction to Cybersecurity , ZSCALER : INTRODUCTION TO NETWORKING FOR CYBER PROFESSIONALS!!
