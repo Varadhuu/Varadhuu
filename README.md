@@ -3,10 +3,10 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology*
-*[CGPA: 8.51]*
+*[CGPA: 8.3]*
 - 📄 Here's Link to My [Resume'a!](https://drive.google.com/file/d/1EYoimWpVE74pbrm-2JaLzbde1rkGDC-B/view?usp=sharing)                                                
 - Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR).
-- ☁️ NPTEL: Cloud Computing Certified! , CISCO : Introduction to Cybersecurity , ZSCALER : INTRODUCTION TO NETWORKING FOR CYBER PROFESSIONALS!!
+- ☁️ NPTEL: Cloud Computing Certified! , Salesforce Certified Agentforce Specialist ,CISCO : Introduction to Cybersecurity!
 - Excited in exploring opportunities in Software Dev, Research , Techies and Hackathons.
 - ⚡ Fun fact: I know a little Deutch!.
   
@@ -20,7 +20,7 @@
 
 #### *What I'm Currently Exploring!*
 
-- *Currently learning Networking Systems, Cloud Computing, Cybersecurity and AIML.*
+- *Currently learning Data Science, Cloud Computing and AIML.*
 - *Building projects like **EduElevate**, **LibVault** and **cybernewsapp**.*
 - *Passionate about developing impactful AI & ML applications and Cybersecurity.*
 
