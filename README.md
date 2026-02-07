@@ -4,7 +4,6 @@
 
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology*
 *[CGPA: 8.3]*
-- 📄 Here's Link to My [Resume'a!](https://drive.google.com/file/d/1JJ1dE5moZCXHmyarewCDdSI2vzX_ZJl5/view?usp=sharing)                                                
 - Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR).
 - ☁️ NPTEL: Cloud Computing Certified! , Salesforce Certified Agentforce Specialist ,CISCO : Introduction to Cybersecurity!
 - Excited in exploring opportunities in Software Dev, Research , Techies and Hackathons.
