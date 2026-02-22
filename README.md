@@ -5,9 +5,10 @@
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology*
 *[CGPA: 8.3]*
 - *IEEE ISCDAAI 2025 Published Author,  [Published Article Link](https://ieeexplore.ieee.org/document/11011888)!*
-
-- Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR).
+- *Ex - SDE Intern: Agentic AI @ Ai Work.*
+- *Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR), Chennai Institute of Technology.*.
 - ☁️ NPTEL: Cloud Computing Certified! , Salesforce Certified Agentforce Specialist ,CISCO : Introduction to Cybersecurity!
+- *2X National Level Hackathon Finalist! (IIT Delhi Handloom Hackathon, All India Technical Developers Hackathon).*
 - Excited in exploring opportunities in Software Dev, Research , Techies and Hackathons.
 - ⚡ Fun fact: I know a little Deutch!.
   
