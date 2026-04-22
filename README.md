@@ -3,7 +3,6 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology*
-*[CGPA: 8.3]*
 - *IEEE ISCDAAI 2025 Published Author,  [Published Article Link](https://ieeexplore.ieee.org/document/11011888)!*
 - *Ex - SDE Intern: Agentic AI @ Ai Work.*
 - *Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR), Chennai Institute of Technology.*.
@@ -22,30 +21,63 @@
 
 #### *What I'm Currently Exploring!*
 
-- *Currently learning Data Science, Cloud Computing and AIML.*
-- *Building projects like **EduElevate**, **LibVault** and **cybernewsapp**.*
-- *Passionate about developing impactful AI & ML applications and Cybersecurity.*
+- *Currently learning Data Science,Analytics and AIML.*
+- *Developing data-driven and AI-based applications, with a focus on practical problem-solving and system design.*
+- *Passionate about developing impactful AI & ML applications and analytical dashboards.*
 
 
 #### *I code in*
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/opencv.png" height="40"/>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+
+  <!-- Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
+
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="45"/>
+
+  <!-- Specialization -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45"/>
 </p>
 
+
 #### *IDE and Tools I Use*
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+
+<p align="left">
+  <!-- IDE -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="45"/>
+
+  <!-- Data Visualization -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="45"/>
+
+  <!-- Notebook -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+
+  <!-- Data Warehouse -->
+  <img src="https://img.icons8.com/color/48/snowflake.png" height="45"/>
+
+  <!-- Environment -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+</p>
+
+#### *DataBases*
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="45"/>
+</p>
 
 #### *Experience Highlights:*
 
