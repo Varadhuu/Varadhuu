@@ -6,7 +6,8 @@
 - *IEEE ISCDAAI 2025 Published Author,  [Published Article Link](https://ieeexplore.ieee.org/document/11011888)!*
 - *Ex - SDE Intern: Agentic AI @ Ai Work.*
 - *Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR), Chennai Institute of Technology.*.
-- ☁️ *AWS Certified Cloud Practioner* , NPTEL: Cloud Computing Certified! , Salesforce Certified Agentforce Specialist ,CISCO : Introduction to Cybersecurity!
+- ☁️ *AWS Certified Cloud Practioner* , Salesforce Certified Agentforce Specialist , IBM - Data Fundamentals
+- *2X NPTEL ELITE: NPTEL ELITE - Data Analysis With Python, NPTEL ELITE - Cloud Computing!*
 - *2X National Level Hackathon Finalist! (IIT Delhi Handloom Hackathon, All India Technical Developers Hackathon).*
 - Excited in exploring opportunities in Software Dev, Research , Techies and Hackathons.
 - ⚡ Fun fact: I know a little Deutch!.
@@ -69,6 +70,8 @@
 
   <!-- Environment -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="45"/>
+
 </p>
 
 #### *DataBases*
