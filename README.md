@@ -4,6 +4,7 @@
 
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology*
 - *IEEE ISCDAAI 2025 Published Author,  [Published Article Link](https://ieeexplore.ieee.org/document/11011888)!*
+- *IEEE ICECI 2026 Published Author,  [Published Article Link](https://ieeexplore.ieee.org/document/11519433)!*
 - *Ex - SDE Intern: Agentic AI @ Ai Work.*
 - *Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR), Chennai Institute of Technology.*.
 - ☁️ *AWS Certified Cloud Practioner* , Salesforce Certified Agentforce Specialist , IBM - Data Fundamentals
