@@ -256,14 +256,6 @@ Data analysis project exploring Spotify music data to identify trends, patterns 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varadhuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varadhuu&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varadhuu&theme=tokyo-night&hide_border=true"/>
 </p>
 
