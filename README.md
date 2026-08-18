@@ -18,9 +18,6 @@
   <a href="https://leetcode.com/u/Varadha_Rajan/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://codolio.com/profile/Varadha_Rajan">
-    <img src="https://img.shields.io/badge/Codolio-Portfolio-6C5CE7?style=for-the-badge"/>
-  </a>
 </p>
 
 ---
