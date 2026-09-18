@@ -128,17 +128,10 @@ Computer vision system designed to detect driver drowsiness using facial landmar
 
 **Tech:** Python • OpenCV • Dlib
 
-🔗 [View Project](https://github.com/Varadhuu/Drowsiness-Detection-System)
 
 ---
 
-### 🎵 Spotify Data Analysis
 
-Data analysis project exploring Spotify music data to identify trends, patterns and insights across tracks and musical attributes.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib • Data Analysis
-
----
 
 ## 🛠️ Tech Stack
 
@@ -266,11 +259,6 @@ Apart from technology, I enjoy exploring new areas, participating in hackathons,
 
 ---
 
-## 💡 Philosophy
-
-> **Don't just build models. Build systems that solve problems.**
-
----
 
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
