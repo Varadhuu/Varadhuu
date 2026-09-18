@@ -48,9 +48,6 @@ Research work in the field of **Artificial Intelligence and Machine Learning**.
 
 🔗 [View IEEE Publication](https://ieeexplore.ieee.org/document/11519433)
 
-### 🔬 Research Intern — CAIR, Chennai Institute of Technology
-
-Worked on **AI/ML research** and contributed to research publication during my internship.
 
 ---
 
@@ -88,7 +85,7 @@ AI-powered healthcare analytics system focused on predicting medical demand and 
 - ⏳ Expiry Management
 - 📊 Data-driven healthcare insights
 
-**Tech:** Python • XGBoost • Pandas • Machine Learning • Streamlit
+**Tech:** Python • XGBoost • Pandas • Machine Learning • Streamlit • FastAPI
 
 ---
 
@@ -96,7 +93,7 @@ AI-powered healthcare analytics system focused on predicting medical demand and 
 
 Deepfake detection prototype designed to identify manipulated video content using spatial and temporal learning.
 
-**Tech:** Python • TensorFlow • CNN • BiLSTM
+**Tech:** Python • TensorFlow • CNN • BiLSTM • DCT
 
 ---
 
@@ -118,7 +115,7 @@ Business analytics project built using the **Olist Brazilian E-Commerce Dataset*
 - 📊 Business SQL Queries
 - 📈 Power BI Dashboard
 
-**Tech:** Python • MySQL • SQL • Power BI • Pandas
+**Tech:** Python • MySQL • Power BI • Pandas
 
 ---
 
@@ -130,8 +127,6 @@ Computer vision system designed to detect driver drowsiness using facial landmar
 
 
 ---
-
-
 
 ## 🛠️ Tech Stack
 
